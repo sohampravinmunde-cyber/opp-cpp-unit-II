@@ -4,9 +4,9 @@ Student Information
 
                                             
 
-Student Name   :                                      Adarsh Rathod                                      
+Student Name   :                                      Soham Munde                                      
 
-ZPRN            :                                     125UAD1148
+ZPRN            :                                     125UAD1199
 
 Class / Division  :                                   SY-B.Tech / A
 
